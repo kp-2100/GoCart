@@ -1,2 +1,3 @@
 # GoCart
-This is a simple android application which allows users to place pickup orders for grocery items from comfort of their homes.
+GoCart is an android application which allows users to place self-pickup orders of grocery items from nearby stores. This helps users to dodge long queues and save their time.
+
